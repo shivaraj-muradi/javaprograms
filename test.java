@@ -3,6 +3,6 @@ class Test{
   {
     System.out.println("welcom");
     system.out.println("to sdm");
-    System.out println("today my pmt lab exam");
+    System.out println("today your pmt lab exam");
   }
 }
